@@ -1,0 +1,5 @@
+openpyxl
+pdfplumber
+PyQt5
+reportlab
+requests
